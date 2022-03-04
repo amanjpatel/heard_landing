@@ -6,14 +6,19 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Welcome to Heard</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <Header title="Welcome to Heard" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Despite the lightning speeds of modern technology, communication between people and our leaders is still often shallow and inefficient.
+    We’re creating a tool where citizens and our leaders can learn more about each others’ thoughts and actions, so leaders can understand how to best serve their constituents, and so citizens can regain confidence that our leaders are representing us well.
+    <code>pages/index.js</code>
+        </p>
+            <p className="description">
+          More to come soon--sign up for our mailing list at <a href=""></code>
         </p>
       </main>
 
